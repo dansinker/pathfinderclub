@@ -2,3 +2,4 @@ name: Pathfinder Club
 markdown: redcarpet
 pygments: true
 github: [Repository metadata]
+baseurl: /pathfinderclub
