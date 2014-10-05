@@ -133,6 +133,7 @@ li {
   color: #666;
   margin-top: 2em;
   overflow: hidden;
+  clear: both;
 }
 
 .footer .contact {
@@ -152,6 +153,12 @@ li {
 
 .footer .rss img {
   border: 0;
+}
+
+.column {
+  width: 200px;
+  float: left;
+  margin-right: 25px;
 }
 
 /*****************************************************************************/
