@@ -2,4 +2,4 @@ name: Pathfinder Club
 markdown: redcarpet
 pygments: true
 github: [Repository metadata]
-permalinks: /gameplay/:title
+permalink: gameplay/:title
