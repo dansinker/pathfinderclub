@@ -3,7 +3,7 @@ layout: default
 title: Pathfinder Club - home
 ---
 
-This is should be text about what Pathfinder is, what the pathfinder club is, who's in the club (first names only) what their characters are, and a little introduction to the writeups.
+This should be text about what Pathfinder is, what the pathfinder club is, who's in the club (first names only) what their characters are, and a little introduction to the writeups.
 
 Gameplay Writeups
 =================
